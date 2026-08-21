@@ -2,8 +2,9 @@
 
 **Status compass for F-1 international students.** Stay Valid turns U.S. immigration
 policy into a personal timeline, a set of checkpoints, an evidence trail, and a
-printable DSO meeting kit — without ever telling a student what their legal status
+printable DSO meeting kit: without ever telling a student what their legal status
 *is*.
+Here is the link for the live website: **https://stay-valid.lovable.app**
 
 Everything a student sees is produced by a **deterministic rules engine** running
 over a **hand-verified corpus** of primary sources. An optional AI layer can
