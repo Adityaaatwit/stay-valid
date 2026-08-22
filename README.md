@@ -4,7 +4,10 @@
 policy into a personal timeline, a set of checkpoints, an evidence trail, and a
 printable DSO meeting kit: without ever telling a student what their legal status
 *is*.
-Here is the link for the live website: **https://stay-valid.lovable.app**
+
+Link for the live website: **https://stay-valid.lovable.app**
+Link for the demo video on how to use: **https://www.loom.com/share/8ff8620a4f84470bbb9578b32539fd21**
+
 
 Everything a student sees is produced by a **deterministic rules engine** running
 over a **hand-verified corpus** of primary sources. An optional AI layer can
